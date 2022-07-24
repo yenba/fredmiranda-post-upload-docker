@@ -1,0 +1,10 @@
+pandas
+beautifulsoup4
+flask
+requests
+gunicorn
+sqlalchemy
+uuid
+psycopg2
+argparse
+json
