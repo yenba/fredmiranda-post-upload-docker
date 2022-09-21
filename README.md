@@ -4,12 +4,12 @@ This is a python script that has been containerized into a Docker container to p
 
 ## Prerequisites
 
-- Postgres Database
+- **Postgres Database**
     - Postgres Database Name (`DBNAME`)
     - Postgres Database Username (`DBUSER`)
     - Postgres Database Password (`DBPASS`)
     - Postgres Database Hostname (`DBHOST`)
-- Docker
+- **Docker**
 
 ## Docker Hub Repo
 
